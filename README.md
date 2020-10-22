@@ -1,4 +1,4 @@
-# muskan_salampuria_git
+# concept of git
 
 This Repository is to practice how to use git bash to push the code into github,
 I have learnt the following things,
